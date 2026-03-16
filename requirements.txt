@@ -1,6 +1,0 @@
-opencv-python
-face-recognition
-dlib
-numpy
-pandas
-imutils
