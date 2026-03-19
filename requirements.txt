@@ -1,0 +1,8 @@
+opencv-python
+numpy
+pandas
+dlib
+face_recognition
+imutils
+matplotlib
+TELEGRAM_TOKEN = "8297500439:AAEwyZqGH77OsdHbp46y6IrC1RQpcaP8DKo"

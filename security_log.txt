@@ -1,0 +1,4 @@
+[10:32] Known user detected
+[10:35] Unknown face detected
+[10:35] Email sent
+[10:36] Laptop locked
